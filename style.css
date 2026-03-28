@@ -1,0 +1,26 @@
+/* ============================================
+   Custom CSS untuk Website Nadila Ramadani
+   ============================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F1F8E9;
+    overflow-x: hidden;
+}
+
+/* Navigation */
+.nav-link {
+    font-weight: 500;
+    transition: all 0.3s ease;
+    padding: 10px 15px;
+}
+
+.nav-link:hover {
+    transform: translateY(-2px);
+    opacity: 0
